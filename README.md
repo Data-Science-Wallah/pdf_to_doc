@@ -118,10 +118,17 @@ Love this project? Want to make it even better?
 ## 📄 License
 This project is open-source. Feel free to use, modify, and distribute as per your needs. Always respect copyright laws when converting documents.
 
-## 🙋‍♂️ Support
-- 📧 **Contact**: Reach out for help or feedback. @datasciencewalla in Youtube or Instagram
-- 📚 **Documentation**: Check this README for detailed info.
-- 🐛 **Troubleshooting**: If issues arise, verify your Python environment and dependencies.
+## 📞 Support
+
+If you encounter any issues or have questions, please open an issue on GitHub.
+
+## 📞 Contact
+
+For any queries, collaborations, or feedback, reach out to us:
+
+- **Follow us on social media:** Follow us [@datasciencewallah](https://instagram.com/datasciencewallah) |  Subscribe for more projects | [@datasciencewallah](https://youtube.com/@datasciencewallah) |Reach out for collaborations!
+- **Subscribe to our channel** for more tutorials and projects
+- **Collaborate with us** on exciting data science and AI projects
 
 ---
 
